@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Zseni</h1>
-<h3 align="center">bio</h3>
+<p align="center">
+  <b>🖤 Follow me here:</b><br>
+  <a href="https://discord.gg/SXng95f">Discord</a> |
+  <a href="http://bit.ly/Zseni-Youtube">YouTube</a> |
+  <a href="https://twitter.com/Zseni10">Twitter</a> |
+  <a href="https://github.com/">Github</a>
+  <br><br>
+  <img src="https://github.com/Zseni-Verified/Zseni-Verified/blob/main/Images/AllVersionOfZseni.gif?raw=true">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zseni-verified&label=Profile%20views&color=0e75b6&style=flat" alt="zseni-verified" /> </p>
 
