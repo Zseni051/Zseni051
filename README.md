@@ -15,7 +15,7 @@
 
 <p align="center"> 
   </b><br>
-    <img src="https://komarev.com/ghpvc/?username=zseni-verified&label=Profile%20views&color=0e75b6&style=flat">
+    <img src="https://badges.pufler.dev/visits/zseni-verified/Zseni-Verified">
   </b><br>
   </b><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zseni-verified&theme=dark&show_icons=true&locale=en&layout=compact">
