@@ -14,6 +14,7 @@
 </p>
 
 <p align="center"> 
+  <b>Views:</b>
   </b><br>
     <img src="https://profile-counter.glitch.me/Zseni-Verified/count.svg">
   </b><br>
