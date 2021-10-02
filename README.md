@@ -14,8 +14,15 @@
 </p>
 
 <p align="center"> 
-  <b>Views:</b>
-  <br> <img src="https://profile-counter.glitch.me/Zseni-Verified/count.svg"> </b>
-  <br> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zseni-verified&theme=dark&show_icons=true&locale=en&layout=compact"> </b>
   <br> <img src="https://github-readme-stats.vercel.app/api?username=zseni-verified&theme=dark&show_icons=true&locale=en"> </b>
+  <br> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zseni-verified&theme=dark&show_icons=true&locale=en&layout=compact"> </b>
+</p>
+
+<p>&nbsp;</p>    
+
+---
+
+<p align="center"> 
+  Visits:<br>
+  <img src="https://profile-counter.glitch.me/Zseni-Verified/count.svg" />
 </p>
