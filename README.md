@@ -15,7 +15,7 @@
 
 <p align="center"> 
   </b><br>
-    <img src="https://badges.pufler.dev/visits/zseni-verified/Zseni-Verified">
+    <img src="https://profile-counter.glitch.me/Zseni-Verified/count.svg">
   </b><br>
   </b><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zseni-verified&theme=dark&show_icons=true&locale=en&layout=compact">
