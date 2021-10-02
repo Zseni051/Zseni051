@@ -14,11 +14,12 @@
 </p>
 
 <p align="center"> 
+  <br> <img src="https://lanyard-profile-readme.vercel.app/api/416508283528937472"> </b>
   <br> <img src="https://github-readme-stats.vercel.app/api?username=zseni-verified&theme=dark&show_icons=true&locale=en"> </b>
   <br> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zseni-verified&theme=dark&show_icons=true&locale=en&layout=compact"> </b>
 </p>
-
-<p>&nbsp;</p>    
+                   
+<p>&nbsp;</p> 
 
 ---
 
