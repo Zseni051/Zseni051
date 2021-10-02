@@ -10,7 +10,7 @@
   <a href="https://github.com/Zseni-Verified" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/Zseni-Verified/Zseni-Verified/main/Images/GitHub%20(2).svg" height="25" width="33"/></a>
   <br><br>
-  <img src="https://github.com/Zseni-Verified/Zseni-Verified/blob/main/Images/AllVersionOfZseni.gif?raw=true" height="388" width="388">
+  <img src="https://github.com/Zseni-Verified/Zseni-Verified/blob/main/Images/AllVersionOfZseni.gif?raw=true">
 </p>
 
 <p align="center"> 
@@ -19,7 +19,7 @@
   <br> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zseni-verified&theme=dark&show_icons=true&locale=en&layout=compact"> </b>
 </p>
                    
-<p>&nbsp;</p> 
+<p>&nbsp;</p>
 
 ---
 
