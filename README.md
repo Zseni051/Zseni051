@@ -9,7 +9,7 @@
   <a href="https://discord.gg/SXng95f" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/Zseni-Verified/Zseni-Verified/main/Images/discord.svg" height="25" width="33"/></a> |
   <a href="https://github.com/Zseni-Verified" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/Zseni-Verified/Zseni-Verified/main/Images/Github.svg" height="25" width="33"/></a>
+    <img align="center" src="https://raw.githubusercontent.com/Zseni-Verified/Zseni-Verified/main/Images/GitHub%20(2).svg" height="25" width="33"/></a>
   <p><img align="center" src="https://github.com/Zseni-Verified/Zseni-Verified/blob/main/Images/AllVersionOfZseni.gif?raw=true" height="388" width="388"/></p>
 </p>
 
