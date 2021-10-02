@@ -15,13 +15,7 @@
 
 <p align="center"> 
   <b>Views:</b>
-  </b><br>
-    <img src="https://profile-counter.glitch.me/Zseni-Verified/count.svg">
-  </b><br>
-  </b><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zseni-verified&theme=dark&show_icons=true&locale=en&layout=compact">
-  </b><br>
-  </b><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=zseni-verified&theme=dark&show_icons=true&locale=en">
-  </b><br>
+  <br> <img src="https://profile-counter.glitch.me/Zseni-Verified/count.svg"> </b>
+  <br> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zseni-verified&theme=dark&show_icons=true&locale=en&layout=compact"> </b>
+  <br> <img src="https://github-readme-stats.vercel.app/api?username=zseni-verified&theme=dark&show_icons=true&locale=en"> </b>
 </p>
