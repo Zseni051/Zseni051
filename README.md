@@ -25,6 +25,6 @@
 ---
 
 <p align="center"> 
-  Visits:<br>
+  Visit counter:<br>
   <img src="https://profile-counter.glitch.me/Zseni-Verified/count.svg" />
 </p>
