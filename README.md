@@ -35,9 +35,9 @@ print(f'Follow {zseni} on Github')
 ## Github stats
 <div> 
   <a href="https://github.com/Zseni051" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zseni051&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" align="left" alt="languages"></a> 
+    <img src="https://github-readme-stats.vercel.app/api?username=Zseni051&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="stats"></a> 
   <a href="https://github.com/Zseni051" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zseni051&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" align="right" alt="languages"></a> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zseni051&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"alt="languages"></a> 
   <a href="https://github.com/Zseni051" target="_blank">
     <img src="https://github.com/Zseni051/Zseni051/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
 </div>
