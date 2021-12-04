@@ -1,10 +1,10 @@
 <div> 
   <a href="https://discord.gg/SXng95f" target="_blank">
-    <img src="https://github.com/Zseni51/Zseni51/blob/main/Images/Zseni-1500x500.png?raw=true" alt="Zseni's Github"/></a>
+    <img src="https://github.com/Zseni051/Zseni051/blob/main/Images/Zseni-1500x500.png?raw=true" alt="Zseni's Github"/></a>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Zseni51&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
-    <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Zseni51" alt="Profile Stars"></a>
-    <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Zseni51" alt="Profile Forks"></a>
+    <img src="https://komarev.com/ghpvc/?username=Zseni051&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
+    <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Zseni051" alt="Profile Stars"></a>
+    <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Zseni051" alt="Profile Forks"></a>
   <p align="center">
     <a href="https://www.youtube.com/channel/UCsIaU94p647veKr7sy12wmA" target="_blank">
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
@@ -34,12 +34,12 @@ print(f'Follow {zseni} on Github')
   - PHP
 ## Github stats
 <div> 
-  <a href="https://github.com/Zseni51" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Zseni51&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" align="left" alt="languages"></a> 
-  <a href="https://github.com/Zseni51" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zseni51&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" align="right" alt="languages"></a> 
-  <a href="https://github.com/Zseni51" target="_blank">
-    <img src="https://github.com/Zseni51/Zseni51/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+  <a href="https://github.com/Zseni051" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=Zseni051&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" align="left" alt="languages"></a> 
+  <a href="https://github.com/Zseni051" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zseni051&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" align="right" alt="languages"></a> 
+  <a href="https://github.com/Zseni051" target="_blank">
+    <img src="https://github.com/Zseni051/Zseni051/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
 </div>
 
 
