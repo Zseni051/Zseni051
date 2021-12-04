@@ -22,7 +22,8 @@ print(f'Follow {zseni} on Github')
 ## About Me:
 <a href="https://discord.com/users/464457105521508354" target="_blank">
   <img src="https://lanyard-profile-readme.vercel.app/api/416508283528937472?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Follow%20me%20on%20GitHub%20<3" align="right" alt="discord_profile"/></a>
-🖥️・**Frontend:**
+
+🖥️・**Frontend:**:
   - HTML
   - CSS
   - Some Js...
@@ -36,7 +37,7 @@ print(f'Follow {zseni} on Github')
   <a href="https://github.com/Zseni51" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api?username=Zseni51&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" align="left" alt="languages"></a> 
   <a href="https://github.com/Zseni51" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zseni51&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" align="left" alt="languages"></a> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zseni51&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" align="right" alt="languages"></a> 
   <a href="https://github.com/Zseni51" target="_blank">
     <img src="https://github.com/Zseni51/Zseni51/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
 </div>
