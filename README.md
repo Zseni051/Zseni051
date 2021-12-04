@@ -1,18 +1,20 @@
 <a href="https://discord.gg/SXng95f" target="_blank"> <img src="https://i.imgur.com/PWGKipI.jpg" alt="Zseni's Github"/></a>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/Zseni-Verified" alt="Visitors"></a>
-  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Zseni-Verified" alt="Profile Stars"></a>
-  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Zseni-Verified" alt="Profile Forks"></a>
+  <img src="https://gpvc.arturio.dev/Zseni51" alt="Visitors"></a>
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Zseni51" alt="Profile Stars"></a>
+  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Zseni51" alt="Profile Forks"></a>
 
 <p align="center">
   <a href="https://discord.gg/SXng95f" target="_blank">
     <img src="https://discordapp.com/api/guilds/420513434996572191/widget.png?style=shield" alt="shield.png"></a>
 
 <a href="https://dsc.gg/astraadev" target="_blank">
-  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
+  <img src="https://github.com/Zseni51/Zseni51/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
 
-
+  
+  
+  
 <h1 align="center">ZSENI</h1>
 <p align="center">
   <b>🖤 Follow me here:</b><br>
