@@ -1,36 +1,36 @@
-<a href="https://discord.gg/SXng95f" target="_blank"> <img src="https://github.com/Zseni51/Zseni51/blob/main/Images/Zseni-1500x500.png?raw=true" alt="Zseni's Github"/></a>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zseni51&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
-  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Zseni51" alt="Profile Stars"></a>
-  <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Zseni51" alt="Profile Forks"></a>
-
-<p align="center">
+<div> 
   <a href="https://discord.gg/SXng95f" target="_blank">
-    <img src="https://discordapp.com/api/guilds/420513434996572191/widget.png?style=shield" alt="shield.png"></a></p></p>
+    <img src="https://github.com/Zseni51/Zseni51/blob/main/Images/Zseni-1500x500.png?raw=true" alt="Zseni's Github"/></a>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Zseni51&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
+    <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Zseni51" alt="Profile Stars"></a>
+    <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Zseni51" alt="Profile Forks"></a>
+  
+  <p align="center">
+    <a href="https://www.youtube.com/channel/UCsIaU94p647veKr7sy12wmA" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
+    <a href="https://discord.gg/SXng95f" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> 
+    <a href="https://twitter.com/zseni10" target="_blank">
+        <img src="https://img.shields.io/badge/Twitter-55ADEE?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a> 
+    <a href = "mailto:orangejuice005511@gmail.com">
+        <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email_Contact"></a>
+</div>
 
 ```python
 print(f'Follow {zseni} on Github')
 ```
-<div> 
-  <a href="https://www.youtube.com/channel/UCsIaU94p647veKr7sy12wmA" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"></a>
-  <a href="https://discord.gg/SXng95f" target="_blank">
-   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a> 
-  <a href="https://twitter.com/zseni10" target="_blank">
-   <img src="https://img.shields.io/badge/Twitter-55ADEE?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a> 
-  <a href = "mailto:orangejuice005511@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email_Contact"></a>
-</div>
+
 <div> 
 <a href="https://github.com/Zseni51" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zseni51&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" align="left" alt="languages"></a></p></p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zseni51&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" align="left" alt="languages"></a>
 
 <a href="https://discord.com/users/464457105521508354" target="_blank">
-  <img src="https://lanyard-profile-readme.vercel.app/api/416508283528937472?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Follow%20me%20on%20GitHub%20<3" align="right" alt="discord_profile"/></a></p>
+  <img src="https://lanyard-profile-readme.vercel.app/api/416508283528937472?theme=dark&bg=0d1117&animated=true&hideDiscrim=false&borderRadius=30px&idleMessage=Follow%20me%20on%20GitHub%20<3" align="right" alt="discord_profile"/></a>
 
 <a href="https://github.com/Zseni51" target="_blank">
-  <img src="https://github.com/Zseni51/Zseni51/blob/output/github-contribution-grid-snake.svg" alt="snake"></a></p></p>
+  <img src="https://github.com/Zseni51/Zseni51/blob/output/github-contribution-grid-snake.svg" alt="snake"></a>
 </div>
 
 <!--- Not used
