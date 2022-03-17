@@ -25,7 +25,7 @@ print(f'Follow {zseni} on Github')
     <img src="https://discord.c99.nl/widget/theme-4/416508283528937472.png" alt="discord_profile" align="right"/>
 </a>
 
-**19 years old, I like to fiddle around with some code. Currently, it's just a hobby, but who knows what the future holds.**
+**19 years old, I like to fiddle around with some code.**
 
 <a href="https://github.com/Zseni051" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zseni051&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="languages">
